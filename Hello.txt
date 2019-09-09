@@ -1,1 +1,4 @@
-print("Hello");
+class user_print
+{
+	print("Hello");
+}
