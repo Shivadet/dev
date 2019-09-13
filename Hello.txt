@@ -1,4 +1,6 @@
 class user_print
 {
-	print("Hello;");
+	print("Hello");
+	print("Hello again");
+	print("Hello everybody");
 }
