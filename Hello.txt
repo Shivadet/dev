@@ -3,6 +3,4 @@ class user_print
 	print("Hello");
 	print("Hello again");
 	print("Hello everybody");
-	print("everybody");
-	print("everybody is good");
 }
